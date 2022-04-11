@@ -4,7 +4,7 @@
 
 2. Verifique as dependências do projeto e, eventualmente, habilite aquelas que estejam em falta. O projeto deve conter as seguintes dependências:
 
-                    Spring BootDevTools | Lombok | Spring Data JPA | MySQL Driver | Spring Webflux | Spring Actuator
+             Spring BootDevTools | Lombok | Spring Data JPA | MySQL Driver | Spring Webflux | Spring Actuator
 
 3. Adicione as suas credênciais MySQL no arquivo application.properties nas seguintes propriedades:
 
